@@ -1,0 +1,2 @@
+ALTER TABLE r1_incomingevents
+ADD COLUMN ine_category VARCHAR(50) NOT NULL DEFAULT 'OTHER';
